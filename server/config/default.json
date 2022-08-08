@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://devil1477:user@cluster0.d5yjf.mongodb.net/myDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "jwtSecretToken",
+  "jwtExpiration": 360000
+}
