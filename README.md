@@ -1,3 +1,4 @@
+☑️ Create fullstack-react-native-project 
 ## Required features
 
 1. **Todo list - CRUD operations on backend**;
